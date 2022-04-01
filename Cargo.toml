@@ -1,5 +1,6 @@
 [workspace]
 members = [
+    "i-am-alive",
     "hello-world",
 ]
 
