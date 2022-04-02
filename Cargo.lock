@@ -129,13 +129,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "hello-world"
-version = "0.1.0"
-dependencies = [
- "actix",
-]
-
-[[package]]
 name = "i-am-alive"
 version = "0.1.0"
 dependencies = [
