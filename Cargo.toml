@@ -2,5 +2,7 @@
 members = [
     "i-am-alive",
     "hello-world",
+    "calculator",
+    "ping",
 ]
 
